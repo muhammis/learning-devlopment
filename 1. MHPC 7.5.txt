@@ -1,0 +1,10 @@
+1. MHPC 7.5
+2. IHPC 7.5
+3. Distributed advanced 7.5
+4. Basic Distributed 7.5
+5. Data Intensive 7.5
+6. Scalable ML and DL 7.5
+7. Programming for DS 7.5
+8. research methods and writing 7.5
+9. software engineering 7.5
+10. Distributed Artificial Intelligence 7.5
