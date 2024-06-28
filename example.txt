@@ -1,1 +1,0 @@
-This is a example for learning to git add. git commit and git push to remote repo.
